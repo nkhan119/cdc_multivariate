@@ -66,7 +66,6 @@ nextflow run main.nf \
 
 ```bash
 # 1. Build the image FROM THE REPO ROOT (not from docker/ subdirectory)
-#    The -f flag points to the Dockerfile; the trailing . is the build context
 cd ~/Downloads/multivariate-pipeline
 docker build -f docker/Dockerfile -t nkhan119/cdc-multivariate:1.0.0 .
 
