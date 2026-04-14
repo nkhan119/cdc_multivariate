@@ -1,5 +1,6 @@
 # Multivariate GWAS Statistical Analysis Pipeline
 **CDC 1.0.0** — Post-REGENIE multivariate module 
+
 Author: Nadeem Khan · INRS-Centre Armand-Frappier Santé-Biotechnologie 
 GitHub: [nkhan119](https://github.com/nkhan119)
 
