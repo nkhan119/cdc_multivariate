@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 """
 static_figures.py — CDC 1.0.0
-Publication-quality static figures (Matplotlib, 300 DPI, PDF + PNG).
-No gridlines. White background. Serif/sans font. Tight layout.
-Called by multivariate_analysis.py after each phase.
-
 Author: Nadeem Khan, INRS-CAFSB
 """
 
